@@ -1,0 +1,20 @@
+Genre: Fighting game
+Back story: Anime characters have taken over the world. Your goal is to defeat a number of anime characters with your clever
+strategizing and otaku knowledge. Not an otaku? Don't watch much anime? Never fear. This game provides the perfect excuse for you to 
+binge watch anime series in the name of saving the world. 
+
+Goal: You need to defeat each anime character in each round (there are only 2 rounds). These characters get increasingly difficult 
+but are between you and the salvation of the world. 
+
+Mechanics: You will have generic moves to use, such as punch and kick which are executed through the keyboard input. For each 
+character you are up against,there will also be moves and options specific to that round that you can use (and may often deliver a 
+fatal or round-winning move). These are effectively the cheat codes. These special abilities will have corresponding keyboard input shortcuts and are characteristic of 
+the anime character. Abilities and shortcuts will be displayed in the instruction scene that appears as the one of the first things you see 
+before playing the game. 
+
+How its levels or modes differ: Round 1 is a straight on battle round with the same attacks and cheat codes specified in the 
+instructions. Round 2, however, will be highly explicit in how to defeat the opponent, and the player will have to achieve that 
+specific task or mission. In round 2, the player will have to fight the opponent while also dodging attacks from anime character 
+minions. 
+
+You have a total of 10 hits.
